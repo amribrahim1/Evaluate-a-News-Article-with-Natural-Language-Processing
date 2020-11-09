@@ -14,7 +14,7 @@ RegExp to check the url.
 
 You can run it in development mode:<br/>
 $ npm run build-dev<br/>
-at port 8080
+at http://localhost:8080/
 
 Or, you can generate dist folder contaning the app:<br/>
 $ npm run build-prod
