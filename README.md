@@ -28,3 +28,5 @@ $ npm run test
 
 This projec is the 4th project of (Udacity NANODEGREE PROGRAM Front End Web Developer) course. Program link:
 https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
+
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
