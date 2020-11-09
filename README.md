@@ -13,17 +13,17 @@ It uses [AYLIEN](https://docs.aylien.com/textapi/endpoints)  api,<br/>
 RegExp to check the url.
 
 You can run it in development mode:<br/>
-$ npm run build-dev<br/>
+`$ npm run build-dev`<br/>
 at http://localhost:8080/
 
 Or, you can generate dist folder contaning the app:<br/>
-$ npm run build-prod
+`$ npm run build-prod`
 
 You have to run the server to run the AYLIEN api:<br/>
-$ npm run start<br/>
+`$ npm run start`<br/>
 It'll run at port 8081
 
 You can test the functions to make sure that they run successfully (using Jest)<br/>
-$ npm run test
+`$ npm run test`
 
 This projec is the 4th project of ([Udacity NANODEGREE PROGRAM Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)) course.
