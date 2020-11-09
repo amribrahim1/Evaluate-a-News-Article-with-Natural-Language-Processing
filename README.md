@@ -4,12 +4,12 @@ This's an app allows users to run Natural Language Processing (NLP) on articles 
 
 The News API includes endpoints that provide both retrieval and analysis features that allow you to search, collect, and analyze news content at scale. Each of our eight endpoints returns a different type of data. Click on each endpoint's documentation on the list to the left or search this page to find documentation on a specific parameter.
 
-It uses AYLIEN api ,
-Node js server side,
-WebPack front-end (client side),
-jest for testing,
-sass-loader,
-babel-loader,
+It uses [AYLIEN](https://docs.aylien.com/textapi/endpoints)  api ,
+[Node js](http://nodejs.org/)  server side,
+[WebPack 4](https://webpack.js.org/) front-end (client side),
+[Jest](https://jestjs.io/) for testing,
+[sass-loader](https://webpack.js.org/loaders/sass-loader/),
+[babel-loader](https://github.com/babel/babel-loader),
 RegExp to check the url.
 
 You can run it in development mode:
@@ -26,7 +26,4 @@ It'll run at port 8081
 You can test the functions to make sure that they run successfully (using Jest)
 $ npm run test
 
-This projec is the 4th project of (Udacity NANODEGREE PROGRAM Front End Web Developer) course. Program link:
-https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
-
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+This projec is the 4th project of ([)Udacity NANODEGREE PROGRAM Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) course.
