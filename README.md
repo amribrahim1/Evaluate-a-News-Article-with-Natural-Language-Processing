@@ -1,6 +1,4 @@
-# Front-End Web Developer program Nanodegree Program
-# Udacity Project 4
-# Evaluate a news article with Natural Language Processing
+# (Udacity) Evaluate a news article with Natural Language Processing
 
 This's an app allows users to run Natural Language Processing (NLP) on articles or blogs from any websites.
 
@@ -27,3 +25,6 @@ It'll run at port 8081
 
 You can test the functions to make sure that they run successfully (using Jest)
 $ npm run test
+
+This projec is the 4th project of (Udacity NANODEGREE PROGRAM Front End Web Developer) course. Program link:
+https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011
