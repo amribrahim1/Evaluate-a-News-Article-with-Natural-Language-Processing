@@ -1,0 +1,32 @@
+form {
+    border: 1px solid #545454;
+    border-radius: 3px;
+    padding: 40px;
+}
+
+.form-control {
+    padding: .375rem 2rem;
+    height: auto;
+    text-align: justify;
+}
+
+input {
+    padding: 7px 0px;
+    width: 100%;
+    line-height: 16px;
+    margin: auto;
+    text-align: center;
+}
+.input-group-text {
+    width: 200px;
+    justify-content: center;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+}
+
+.alert{
+    text-align: center;
+    font-weight: bold;
+}
