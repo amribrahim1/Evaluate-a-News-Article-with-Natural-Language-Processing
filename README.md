@@ -26,4 +26,4 @@ It'll run at port 8081
 You can test the functions to make sure that they run successfully (using Jest)
 $ npm run test
 
-This projec is the 4th project of ([)Udacity NANODEGREE PROGRAM Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) course.
+This projec is the 4th project of ([Udacity NANODEGREE PROGRAM Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)) course.
