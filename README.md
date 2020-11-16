@@ -1,5 +1,7 @@
 # (Udacity) Evaluate a news article with Natural Language Processing
 
+https://news-evaluate.glitch.me/
+
 This's an app allows users to run Natural Language Processing (NLP) on articles or blogs from any websites.
 
 The News API includes endpoints that provide both retrieval and analysis features that allow you to search, collect, and analyze news content at scale. Each of our eight endpoints returns a different type of data. Click on each endpoint's documentation on the list to the left or search this page to find documentation on a specific parameter.
