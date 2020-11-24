@@ -8,8 +8,8 @@ The News API includes endpoints that provide both retrieval and analysis feature
 
 It uses:
 
-[AYLIEN](https://docs.aylien.com/textapi/endpoints)  api,<br/>
-[Node js](http://nodejs.org/)  server side,<br/>
+- [AYLIEN](https://docs.aylien.com/textapi/endpoints)  api,<br/>
+- [Node js](http://nodejs.org/)  server side,<br/>
 [WebPack 4](https://webpack.js.org/) front-end (client side),<br/>
  [Jest](https://jestjs.io/) for testing,<br/>
  [sass-loader](https://webpack.js.org/loaders/sass-loader/),<br/>
