@@ -8,13 +8,13 @@ The News API includes endpoints that provide both retrieval and analysis feature
 
 It uses:
 
-<li>[AYLIEN](https://docs.aylien.com/textapi/endpoints)  api,<br/> </li>
- <li>[Node js](http://nodejs.org/)  server side,<br/></li>
- <li>[WebPack 4](https://webpack.js.org/) front-end (client side),<br/></li>
- <li>[Jest](https://jestjs.io/) for testing,<br/></li>
- <li>[sass-loader](https://webpack.js.org/loaders/sass-loader/),<br/></li>
- <li>[babel-loader](https://github.com/babel/babel-loader),<br/></li>
- <li>RegExp to check the url.</li>
+[AYLIEN](https://docs.aylien.com/textapi/endpoints)  api,<br/> 
+[Node js](http://nodejs.org/)  server side,<br/>
+[WebPack 4](https://webpack.js.org/) front-end (client side),<br/>
+ [Jest](https://jestjs.io/) for testing,<br/>
+ [sass-loader](https://webpack.js.org/loaders/sass-loader/),<br/>
+ [babel-loader](https://github.com/babel/babel-loader),<br/>
+ RegExp to check the url.
 
 You can run it in development mode:<br/>
 `$ npm run build-dev`<br/>
