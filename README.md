@@ -10,11 +10,11 @@ It uses:
 
 - [AYLIEN](https://docs.aylien.com/textapi/endpoints)  api,<br/>
 - [Node js](http://nodejs.org/)  server side,<br/>
-[WebPack 4](https://webpack.js.org/) front-end (client side),<br/>
- [Jest](https://jestjs.io/) for testing,<br/>
- [sass-loader](https://webpack.js.org/loaders/sass-loader/),<br/>
- [babel-loader](https://github.com/babel/babel-loader),<br/>
- RegExp to check the url.
+- [WebPack 4](https://webpack.js.org/) front-end (client side),<br/>
+- [Jest](https://jestjs.io/) for testing,<br/>
+- [sass-loader](https://webpack.js.org/loaders/sass-loader/),<br/>
+- [babel-loader](https://github.com/babel/babel-loader),<br/>
+- RegExp to check the url.
 
 You can run it in development mode:<br/>
 `$ npm run build-dev`<br/>
