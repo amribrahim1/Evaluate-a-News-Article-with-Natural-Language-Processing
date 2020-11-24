@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Evaluate a News Article with Natural Language Processing</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link href="main.css" rel="stylesheet"></head>
+
+    <body>
+
+        <header class="jumbotron jumbotron-fluid">
+            <h3>Udacity Project 4</h3>
+            <h1>Evaluate a news article with Natural Language Processing</h1>
+            <h3>Front-End Web Developer program Nanodegree Program</h3>
+        </header>
+
+        <main>
+            <section>
+                <form id="form" onsubmit="return Client.handleSubmit(event)">
+                    <label for="url">Type an URL</label>
+                    <input id="url" type="text" name="url" placeholder="http://www.news-website.com/article/52214" required><br/><br/>
+                    <input class="btn btn-primary btn-lg btn-block" type="submit" name="submit" value="submit">
+                </form>
+            <section>
+
+            <section>
+                <strong>Form Results:</strong>
+                <div id="results"><br/></div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Amr Eraky &#169;</p>
+        </footer>
+
+        <script>
+            // Check that service workers are supported
+            if ('serviceWorker' in navigator) {
+                // Use the window load event to keep the page load performant
+                window.addEventListener('load', () => {
+                    navigator.serviceWorker.register('/service-worker.js');
+                });
+            }
+        </script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="main.js"></script></body>
+</html>
